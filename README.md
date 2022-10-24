@@ -3,6 +3,6 @@
 Exploratory data analysis of the energy consumption of my apartment in one month.
 
 Libraries used:
-* Pandas.
-* Matplotlib.
-* Seaborn.
+* :panda_face: Pandas.
+* :bar_chart: Matplotlib.
+* :ocean: Seaborn.
